@@ -1,3 +1,5 @@
+# This Role Has Been Deprecated: Please use the version in the [oasis_roles.system](https://github.com/oasis-roles/ansible_collection_system) Ansible Collection
+
 [![Build Status](https://travis-ci.com/oasis-roles/users_and_groups.svg?branch=master)](https://travis-ci.com/oasis-roles/users_and_groups)
 
 users_and_groups
